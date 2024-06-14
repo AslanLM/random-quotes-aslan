@@ -10,7 +10,7 @@
   "author": "AslanLM",
   "license": "MIT",
   "bin": {
-    "random-quotes-aslan": "./global.js"
+    "random-quotes-aslan": "./bin/global.js"
   },
   "preferGlobal": true
 }
