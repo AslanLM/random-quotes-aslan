@@ -1,0 +1,16 @@
+{
+  "name": "random-quotes-aslan",
+  "version": "1.0.0",
+  "description": "Random quotes from AslanLM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "AslanLM",
+  "license": "MIT",
+  "bin": {
+    "random-quotes-aslan": "./global.js"
+  },
+  "preferGlobal": true
+}
